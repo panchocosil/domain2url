@@ -62,7 +62,7 @@ def main():
 
 ## if is not file
     if not domains:
-        print('Usage: python3 domains2url.py <file>')
+        print('Usage: python3 domain2url.py <file>')
         sys.exit(1)
 
  
